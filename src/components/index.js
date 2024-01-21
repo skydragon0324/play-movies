@@ -1,0 +1,8 @@
+export {default  as DealsOnMoviePurchases } from  './DealsOnMoviePurchases.jsx'
+export {default  as MostPopularMovies } from  './MostPopularMovies.jsx'
+export {default  as NewToRent } from  './NewToRent.jsx'
+export {default  as NavbarComponent } from  './Navbar.jsx'
+export {default  as TopMovies } from  './TopMovies.jsx'
+export {default  as SearchBar } from  './SearchBar.jsx'
+export {default  as TopNewReleases } from  './TopNewReleases.jsx'
+export {default  as OffersOnRental } from  './OffersOnRental.jsx'
